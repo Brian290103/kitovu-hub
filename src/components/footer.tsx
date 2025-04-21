@@ -118,7 +118,7 @@ const Footer = () => {
                   className="hover:text-blue-400 transition-colors flex items-center gap-2"
                 >
                   <ChevronRight className="w-4 h-4" />
-                  Market Access
+                  Premium Talent
                 </a>
               </li>
               <li>
@@ -127,7 +127,7 @@ const Footer = () => {
                   className="hover:text-blue-400 transition-colors flex items-center gap-2"
                 >
                   <ChevronRight className="w-4 h-4" />
-                  Knowledge Hub
+                  Call Center Services
                 </a>
               </li>
               <li>
@@ -136,7 +136,7 @@ const Footer = () => {
                   className="hover:text-blue-400 transition-colors flex items-center gap-2"
                 >
                   <ChevronRight className="w-4 h-4" />
-                  Financial Services
+                  Help Desk Support
                 </a>
               </li>
               <li>
@@ -145,7 +145,7 @@ const Footer = () => {
                   className="hover:text-blue-400 transition-colors flex items-center gap-2"
                 >
                   <ChevronRight className="w-4 h-4" />
-                  Digital Extension
+                  IT Support Services
                 </a>
               </li>
             </ul>
@@ -157,7 +157,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-start gap-2">
                 <MapPin className="w-5 h-5 mt-0.5" />
-                <div>123 Farmer's Plaza, Nairobi, Kenya</div>
+                <div>123 Street, TX, US</div>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-5 h-5" />
@@ -165,7 +165,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-5 h-5" />
-                info@kitovu.co.ke
+                info@kitovu-hub.com
               </li>
             </ul>
           </div>

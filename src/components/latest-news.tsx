@@ -17,47 +17,45 @@ interface NewsItem {
 
 const newsData: NewsItem[] = [
   {
-    title: "KITOVU Launches New AI Feature",
+    title: "KITOVU Launches Premium Talent Matching",
     description:
-      "KITOVU introduces a groundbreaking AI-powered tool to enhance customer support automation.",
-    imageUrl:
-      "https://img.freepik.com/free-photo/red-microphone-news-reporting-interviews_187299-46784.jpg?t=st=1745203881~exp=1745207481~hmac=144da1d53475b21a7fb817ae57518787d146fc297d225cbcc5d38e80c5b4e4aa&w=1380",
+      "Our new Premium Talent service connects businesses with top-tier professionals tailored to their exact support needs.",
+    imageUrl: "",
     link: "#",
   },
   {
-    title: "KITOVU Expands Global Reach",
+    title: "New Call Center Service Now Live",
     description:
-      "KITOVU announces its expansion into new international markets, bringing its solutions to a wider audience.",
-    imageUrl:
-      "https://img.freepik.com/free-photo/technology-communication-icons-symbols-concept_53876-120314.jpg?uid=R109949171&ga=GA1.1.243618044.1740093492&semt=ais_hybrid&w=740",
+      "KITOVU's dedicated call center service is now operational, offering 24/7 customer engagement with highly trained agents.",
+    imageUrl: "",
     link: "#",
   },
   {
-    title: "KITOVU Partners with Leading CRM",
+    title: "KITOVU Opens IT Support Hub in Nairobi",
     description:
-      "KITOVU integrates with a leading CRM provider to streamline customer data and improve support efficiency.",
-    imageUrl: "https://source.unsplash.com/featured/?crm,integration",
+      "To meet growing demand, KITOVU has launched a state-of-the-art IT Support hub to serve businesses across East Africa.",
+    imageUrl: "",
     link: "#",
   },
   {
-    title: "KITOVU Wins Customer Choice Award",
+    title: "KITOVU Partners with Universities to Source Talent",
     description:
-      "KITOVU receives a prestigious award for its outstanding customer satisfaction and support services.",
-    imageUrl: "https://source.unsplash.com/featured/?award,winner",
+      "We're working with local institutions to provide internship-to-employment pathways through our Premium Talent service.",
+    imageUrl: "",
     link: "#",
   },
   {
-    title: "KITOVU Announces Series B Funding",
+    title: "KITOVU Help Desk Gets AI Upgrade",
     description:
-      "KITOVU secures significant funding to accelerate its growth and innovation in customer support solutions.",
-    imageUrl: "https://source.unsplash.com/featured/?funding,investment",
+      "The Help Desk platform now features smart AI suggestions to speed up responses and improve customer experience.",
+    imageUrl: "",
     link: "#",
   },
   {
-    title: "KITOVU's New Office Opening",
+    title: "KITOVU Recognized for Excellence in Support Services",
     description:
-      "KITOVU opens a new office in Nairobi to better serve its East African clients.",
-    imageUrl: "https://source.unsplash.com/featured/?office,nairobi",
+      "KITOVU has been honored for delivering outstanding customer service and reliable IT support across multiple sectors.",
+    imageUrl: "",
     link: "#",
   },
 ];

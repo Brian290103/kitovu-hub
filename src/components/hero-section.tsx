@@ -15,7 +15,8 @@ const HeroSection = () => {
         </div>
 
         <h1 className="text-4xl md:text-5xl text-center font-semibold font-title">
-          Your Reliable Helpdesk Partner
+          We provide world-class customer service for the world’s best-loved
+          brands.
         </h1>
 
         <p className="text-gray-700 text-sm sm:text-base leading-relaxed max-w-2xl text-center">

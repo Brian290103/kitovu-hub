@@ -13,42 +13,42 @@ const faqsData = [
   {
     question: "What is KITOVU?",
     answer:
-      "KITOVU is a platform designed to help businesses improve their customer support and communication. It offers tools for managing interactions, automating responses, and providing personalized assistance.",
+      "KITOVU is a customer support and IT solutions provider offering specialized services such as premium talent sourcing, call center support, help desk management, and IT support tailored for businesses of all sizes.",
   },
   {
     question: "What services does KITOVU offer?",
     answer:
-      "KITOVU offers a range of services, including multi-channel support management, automation and chatbots, personalized customer experiences, and reporting and analytics.",
+      "KITOVU provides Premium Talent recruitment, 24/7 Call Center services, Technical Help Desk solutions, and reliable IT Support. We help businesses streamline operations and deliver exceptional customer experiences.",
   },
   {
-    question: "How can KITOVU help my business?",
+    question: "How can KITOVU benefit my business?",
     answer:
-      "KITOVU can help your business by improving customer satisfaction, reducing response times, increasing efficiency, and providing valuable insights into customer interactions.",
+      "By outsourcing support to KITOVU, you gain access to skilled professionals, reduce operational costs, ensure quick response times, and improve overall customer satisfaction—helping your business grow efficiently.",
   },
   {
-    question: "Is KITOVU suitable for small businesses?",
+    question: "Is KITOVU suitable for startups and small businesses?",
     answer:
-      "Yes, KITOVU offers affordable packages designed to meet the needs of businesses of all sizes, including small businesses.",
+      "Absolutely. We offer flexible, scalable plans ideal for startups and small businesses looking for affordable yet high-quality customer support and IT services.",
   },
   {
-    question: "How easy is it to set up and use KITOVU?",
+    question: "How easy is it to get started with KITOVU?",
     answer:
-      "KITOVU is designed to be user-friendly, with a straightforward setup process and an intuitive interface.  We also provide excellent support to help you get started.",
+      "Getting started is simple. Our onboarding process is fast and guided by our team. We ensure a smooth transition whether you're integrating support services or setting up IT infrastructure.",
   },
   {
-    question: "Does KITOVU integrate with other tools?",
+    question: "Can KITOVU integrate with my existing systems?",
     answer:
-      "KITOVU integrates with a variety of popular business tools, including CRM systems, e-commerce platforms, and communication apps.  Please check our integrations page for a full list.",
+      "Yes. KITOVU integrates with many CRM systems, communication tools, and productivity platforms to ensure seamless operations across your existing tech stack.",
   },
   {
-    question: "What kind of support does KITOVU provide?",
+    question: "What kind of customer support does KITOVU offer?",
     answer:
-      "KITOVU provides friendly, human-first support with fast response times. We offer personalized help for every query to ensure you get the assistance you need.",
+      "We provide 24/7 support via phone, chat, and email. Our trained agents are always available to assist with any inquiries, technical issues, or operational concerns.",
   },
   {
-    question: "How much does KITOVU cost?",
+    question: "How much does KITOVU's service cost?",
     answer:
-      "KITOVU offers a variety of pricing plans to suit different business needs and budgets.  Please visit our pricing page for detailed information.",
+      "Our pricing is tailored to your business size and needs. Whether you’re looking for a dedicated call center team or ad hoc IT support, we have plans to fit your budget. Contact us for a custom quote.",
   },
 ];
 

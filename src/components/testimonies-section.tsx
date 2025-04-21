@@ -19,37 +19,37 @@ interface Testimonial {
 const testimonialsData: Testimonial[] = [
   {
     name: "Jane Mwangi",
-    title: "SaaS Founder",
+    title: "Operations Manager, FinTech Africa",
     quote:
-      "KITOVU helped us cut our email response time in half. Our users love the quick chat support!",
-    image: "https://mighty.tools/mockmind-api/content/human/125.jpg", // Example URL
+      "KITOVU's call center team transformed our customer engagement. We've seen a 40% boost in satisfaction scores since onboarding them.",
+    image: "https://mighty.tools/mockmind-api/content/human/125.jpg",
   },
   {
     name: "Kevin Otieno",
-    title: "Local Retailer",
+    title: "Founder, RetailPro",
     quote:
-      "Before KITOVU, we struggled with keeping up. Now? Everything's smooth and organized.",
-    image: "https://mighty.tools/mockmind-api/content/human/104.jpg", // Example URL
+      "The premium talent sourced through KITOVU helped us build a reliable support team faster than we ever thought possible.",
+    image: "https://mighty.tools/mockmind-api/content/human/104.jpg",
   },
   {
     name: "Sarah Wambui",
-    title: "E-commerce Manager",
+    title: "IT Lead, BoreshaTech",
     quote:
-      "The personalized support from KITOVU has significantly improved our customer satisfaction.",
-    image: "https://mighty.tools/mockmind-api/content/human/97.jpg", // Example URL
+      "From server issues to desktop troubleshooting, KITOVU's IT support team has been a game changer for our day-to-day operations.",
+    image: "https://mighty.tools/mockmind-api/content/human/97.jpg",
   },
   {
     name: "David Kamau",
-    title: "Small Business Owner",
+    title: "Managing Director, Jua Kali Hub",
     quote:
-      "KITOVU's affordable packages made it easy for us to get started and scale our support.",
+      "As a growing business, KITOVU’s help desk support allowed us to scale without sacrificing quality. Their professionalism is unmatched.",
     image: "https://mighty.tools/mockmind-api/content/human/91.jpg",
   },
   {
     name: "Grace Akinyi",
-    title: "Customer Service Lead",
+    title: "Customer Experience Lead, AfriMart",
     quote:
-      "The fast response times have made a huge difference in our customer experience.  We're very happy.",
+      "Their all-in-one approach — from technical help to front-line support — has made KITOVU an essential part of our team.",
     image: "https://mighty.tools/mockmind-api/content/human/108.jpg",
   },
 ];

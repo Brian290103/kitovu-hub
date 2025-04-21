@@ -1,5 +1,5 @@
 import React from "react";
-import { BadgeCheck, Heart, Zap } from "lucide-react"; // Import icons
+import { BadgeCheck, Star, TrendingUp, Users } from "lucide-react"; // Import icons
 import { cn } from "@/lib/utils";
 import { motion } from "framer-motion";
 import Image from "next/image";
@@ -7,32 +7,32 @@ import Image from "next/image";
 // Data for the advantages - added image paths
 const advantages = [
   {
+    icon: Star,
+    title: "Boost Customer Satisfaction",
+    description:
+      "We help you connect with customers, exceed expectations, and build lasting relationships through real human support.",
+    image: "/icons/stars.png", // A star icon on a white background
+  },
+  {
+    icon: TrendingUp,
+    title: "Increase Operational Efficiency",
+    description:
+      "Cut costs without compromising quality. Our call center and IT support services streamline your workflows.",
+    image: "/icons/efficiency.png", // A blue circle with an upward arrow
+  },
+  {
+    icon: Users,
+    title: "Reduce Customer Attrition",
+    description:
+      "Turn your clients into loyal advocates. Our personalized and proactive support keeps them coming back.",
+    image: "/icons/retention.png", // A relevant image showing user loyalty or connection
+  },
+  {
     icon: BadgeCheck,
-    title: "Friendly Support",
+    title: "Affordable, Human-Centered Support",
     description:
-      "Real humans, real conversations. Our team is always ready to help with empathy and professionalism.",
-    image: "/icons/friends.png",
-  },
-  {
-    icon: Zap,
-    title: "Fast Response",
-    description:
-      "Lightning-fast replies that keep your customers happy and your operations smooth.",
-    image: "/icons/fast.png",
-  },
-  {
-    icon: Heart,
-    title: "Personalized Help",
-    description:
-      "Every customer is unique. Kitovu tailors responses to individual needs for a more effective support experience.",
-    image: "/icons/personalized.png",
-  },
-  {
-    icon: Heart,
-    title: "Affordable Packages",
-    description:
-      "Flexible pricing for startups to enterprises. Get top-tier support tools without breaking the bank.",
-    image: "/icons/cheap.png",
+      "From startups to enterprises, get fast, friendly, and cost-effective assistance tailored to your needs.",
+    image: "/icons/support.png", // Could be a chat bubble or customer service headset
   },
 ];
 
