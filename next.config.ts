@@ -8,6 +8,7 @@ const nextConfig: NextConfig = {
   typescript: {
     ignoreBuildErrors: true, // Disable type checking during build
   },
+
   eslint: {
     ignoreDuringBuilds: true, // Disable linting during build
   },
